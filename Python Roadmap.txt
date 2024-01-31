@@ -1,0 +1,51 @@
+Basic:
+	Variables
+	Data Types
+	Condition statements (if-else, if-elif-else, match case)
+	Operators(Arithmetic, Assignment, Comparison, Logic, Bitwise, Comparison)
+	Control flow (break, continue, return, pass, goto)
+	Loops(for, while, do while)
+	Basic python-specific data structures (list, tuples, Dictionary, Sets, Strings)
+	Functions
+	File I/O
+
+Intermediate: 
+	Data Structures and algorithms
+	Object oriented programming
+	lambda function
+	*args and **kwargs
+	Dunder methods
+	PIP package management system
+	Making own modules
+	AsyncIO module
+	Enviornment variables
+	Python Enviornments (Anaconda, Spyder, jupyter, PyPy, Cython, Jython)
+
+Advanced:
+	Decorators
+	Generators
+	Context managers
+	Meta classes
+	Concurrency and parallelism
+	Unit testing
+	Building and manipulating packages
+
+Expert:
+	Exploring different IT industries like:-
+		Machine Learning
+		Artificial Intelligence
+		Robotics
+		Game development
+		Software development
+		Web	development
+		Data Science
+		Data analytics
+		Android development
+		Cyber security
+		MLOps
+		DevOps
+		Internet of Things
+		Internet of Services
+		Embedded Software development
+		Cloud Engineering
+	and Learning about the libraries of the Industry you're Interested in.
