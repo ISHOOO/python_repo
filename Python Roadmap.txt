@@ -29,23 +29,3 @@ Advanced:
 	Concurrency and parallelism
 	Unit testing
 	Building and manipulating packages
-
-Expert:
-	Exploring different IT industries like:-
-		Machine Learning
-		Artificial Intelligence
-		Robotics
-		Game development
-		Software development
-		Web	development
-		Data Science
-		Data analytics
-		Android development
-		Cyber security
-		MLOps
-		DevOps
-		Internet of Things
-		Internet of Services
-		Embedded Software development
-		Cloud Engineering
-	and Learning about the libraries of the Industry you're Interested in.
