@@ -12,6 +12,7 @@ Basic:
 Intermediate: 
 	Data Structures and algorithms
 	Object oriented programming
+	Bit Manipulation
 	lambda function
 	*args and **kwargs
 	Dunder methods
