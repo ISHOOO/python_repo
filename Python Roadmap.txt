@@ -16,6 +16,7 @@ Intermediate:
 	lambda function
 	*args and **kwargs
 	Dunder methods
+	Exception Handling
 	PIP package management system
 	Making own modules
 	AsyncIO module
