@@ -4,7 +4,7 @@ def bin2dec(n):
     while(n):
         rem=n%10
         n=n//10
-        sum+=rem*(2**x)
+        sum+=rem<<x
         x+=1
     return sum
 num=eval(input("Enter a binary number:"))
