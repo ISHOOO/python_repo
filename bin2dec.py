@@ -4,6 +4,6 @@ sum=0
 while(n):
     rem=n%10
     n=n//10
-    sum+=rem*(2**x)
+    sum+=rem<<x
     x+=1
 print(f"Decimal form: {sum}")

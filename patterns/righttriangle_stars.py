@@ -1,9 +1,9 @@
 n=eval(input("Enter a number: "))
 for i in range(1,n*2):
     if i<=n:
-        print(" "*(n-i)+"* "*i)
+        print(("* "*i).center(n*2-1))
     else:
-        print(" "*(i-n)+"* "*(2*n-i))
+        print(("* "*(2*n-i)).center(n*2-1))
 """
     * 
    * * 
