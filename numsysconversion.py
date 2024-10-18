@@ -3,7 +3,7 @@ def dec2bin(dec):
     res=0
     for i in range(8,-1,-1):
         if 2**i<=dec:
-            num=num-2**i
+            num-=1<<i
             q=num>=0
             res=(res*10)+(1*q) 
     return res
@@ -25,3 +25,6 @@ def bin2oct(bin_num):
         res+=bin2dec(r)*10**i
         i+=1
     return res
+
+def bin2hex(bin_num):
+    return f"{bin_num:x}"[2:]
