@@ -53,8 +53,8 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 | Concept                                                                                   | Status |
 |-------------------------------------------------------------------------------------------|--------|
 | Decorators                                                                                | ✅     |
+| Generators                                                                                | ✅     |
 | Context Managers                                                                          | ✅     |
-| Generators                                                                                | ⬜     |
 | Creating Custom Modules                                                                   | ⬜     |
 | `asyncio` Module                                                                          | ⬜     |
 | Metaclasses                                                                               | ⬜     |
