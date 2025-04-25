@@ -29,7 +29,7 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 ### ⚙️ Intermediate
 
 | Concept                                                                                   	 | Status |
-|------------------------------------------------------------------------------------------------|--------|
+|----------------------------------------------------------------------------------------------|--------|
 | Data Structures and Algorithms                                                            	 | ✅     |
 | Object-Oriented Programming                                                               	 | ✅     |
 | Bit Manipulation                                                                          	 | ✅     |
@@ -37,8 +37,8 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 | `*args` and `**kwargs`                                                                    	 | ✅     |
 | `map()` and `filter()`                                                                    	 | ✅     |
 | `functools` module                                                                        	 | ✅     |
-| `itertools` module                                                                        	 | ⬜     |
-| `datetime` module                                                                         	 | ⬜     |
+| `datetime` module                                                                        	   | ✅     |
+| `itertools` module                                                                         	 | ⬜     |
 | `collections` module                                                                      	 | ⬜     |
 | Type Annotations                                                                          	 | ⬜     |
 | Dunder Methods (`__init__`, `__str__`, etc.)                                              	 | ⬜     |
@@ -52,7 +52,7 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 
 | Concept                                                                                   | Status |
 |-------------------------------------------------------------------------------------------|--------|
-| Decorators                                                                                | ✅     |
+| Decorators                                                                                | ⬜     |
 | Generators                                                                                | ✅     |
 | Context Managers                                                                          | ✅     |
 | Creating Custom Modules                                                                   | ⬜     |
