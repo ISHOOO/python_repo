@@ -13,38 +13,38 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 
 | Concept                                                                                   | Status |
 |-------------------------------------------------------------------------------------------|--------|
-| Variables                                                                                 | ✅     |
-| Data Types                                                                                | ✅     |
-| Conditional Statements (`if-else`, `if-elif-else`, `match-case`)                          | ✅     |
-| Operators (Arithmetic, Assignment, Comparison, Logic, Identity, Membership Bitwise)       | ✅     |
-| Control Flow (`break`, `continue`, `return`, `pass`)                                      | ✅     |
-| Loops (`for`, `while`, `do-while`)                                                        | ✅     |
-| Patterns (floyd's triangle, diamond, inversed triangle, butterfly, hourglass etc.)        | ✅     |
-| Python Data Structures (List, Tuple, Dictionary, Set, String)                             | ✅     |
-| Functions                                                                                 | ✅     |
-| File I/O (Reading, writing, appending, creating and file modes)                           | ✅     |
+| Variables and scopes                                                                      | ✅ |
+| Data Types                                                                                | ✅ |
+| Conditional Statements (`if-else`, `if-elif-else`, `match-case`)                          | ✅ |
+| Operators (Arithmetic, Assignment, Comparison, Logic, Identity, Membership Bitwise)       | ✅ |
+| Control Flow (`break`, `continue`, `return`, `pass`)                                      | ✅ |
+| Loops (`for`, `while`, `do-while`)                                                        | ✅ |
+| Patterns (floyd's triangle, diamond, inversed triangle, butterfly, hourglass etc.)        | ✅ |
+| Python Data Structures (List, Tuple, Dictionary, Set, String)                             | ✅ |
+| Functions                                                                                 | ✅ |
+| File I/O (Reading, writing, appending, creating and file modes)                           | ✅ |
 
 ---
 
 ### ⚙️ Intermediate
 
 | Concept                                                                                   	 | Status |
-|----------------------------------------------------------------------------------------------|--------|
-| Data Structures and Algorithms                                                            	 | ✅     |
-| Object-Oriented Programming                                                               	 | ✅     |
-| Bit Manipulation                                                                          	 | ✅     |
-| Lambda Functions                                                                          	 | ✅     |
-| `*args` and `**kwargs`                                                                    	 | ✅     |
-| `map()` and `filter()`                                                                    	 | ✅     |
-| `functools` module                                                                        	 | ✅     |
-| `datetime` module                                                                        	   | ✅     |
-| `itertools` module                                                                         	 | ⬜     |
-| `collections` module                                                                      	 | ⬜     |
-| Type Annotations                                                                          	 | ⬜     |
-| Dunder Methods (`__init__`, `__str__`, etc.)                                              	 | ⬜     |
-| Exception Handling                                                                        	 | ⬜     |
-| PIP Package Management (`install`, `uninstall`, `list`, `freeze`, `check`, `cache`, `config`)  | ⬜     |
-| Python Environments (Anaconda, Jupyter ✅, Cython ✅)                                    	 | ⬜     |
+|----------------------------------------------------------------------------------------------|----|
+| Data Structures and Algorithms                                                            	 | ✅ |
+| Object-Oriented Programming                                                               	 | ✅ |
+| Bit Manipulation                                                                          	 | ✅ |
+| Lambda Functions                                                                          	 | ✅ |
+| `*args` and `**kwargs`                                                                    	 | ✅ |
+| `map()` and `filter()`                                                                    	 | ✅ |
+| `functools` module                                                                        	 | ✅ |
+| `datetime` module                                                                        	   | ✅ |
+| `itertools` module                                                                         	 | ⬜ |
+| `collections` module                                                                      	 | ⬜ |
+| Type Annotations                                                                          	 | ✅ |
+| Dunder Methods (`__init__`, `__str__`, etc.)                                              	 | ⬜ |
+| Exception Handling                                                                        	 | ✅ |
+| PIP Package Management (`install`, `uninstall`, `list`, `freeze`, `check`, `cache`, `config`)| ⬜ |
+| Python Environments (Anaconda, Jupyter ✅, Cython ✅)                                    	 | ⬜ |
 
 ---
 
@@ -52,13 +52,14 @@ This is my evolving Python knowledge base, meant to deepen understanding through
 
 | Concept                                                                                   | Status |
 |-------------------------------------------------------------------------------------------|--------|
-| Decorators                                                                                | ⬜     |
-| Generators                                                                                | ✅     |
-| Context Managers                                                                          | ✅     |
-| Creating Custom Modules                                                                   | ⬜     |
-| `asyncio` Module                                                                          | ⬜     |
-| Metaclasses                                                                               | ⬜     |
-| Concurrency & Parallelism                                                                 | ⬜     |
+| Decorators                                                                                | ⬜ |
+| Generators                                                                                | ✅ |
+| Context Managers                                                                          | ✅ |
+| Numba                                                                                     | ⬜ |
+| Creating Custom Modules                                                                   | ⬜ |
+| `asyncio` Module                                                                          | ⬜ |
+| Metaclasses                                                                               | ⬜ |
+| Concurrency & Parallelism                                                                 | ⬜ |
 
 ---
 ## 📌 Note
